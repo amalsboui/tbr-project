@@ -25,8 +25,11 @@ Each section contains books with the title, author, book cover, and an inspiring
 
 ## Screenshots
 
-![Home Page](https://i.postimg.cc/Wp6KFS5d/447637905-341071225457230-7081254501533526992-n.png)[screenshot2](https://i.postimg.cc/rsJYBFD1/447604127-813502874044218-9008544102641236833-n.png)
+![Home Page](https://i.postimg.cc/Wp6KFS5d/447637905-341071225457230-7081254501533526992-n.png)
+![homepage2](https://i.postimg.cc/rsJYBFD1/447604127-813502874044218-9008544102641236833-n.png)
 ![Japanese Books Page](https://i.postimg.cc/T1G4NW32/447577218-981522653346736-2421799962511770274-n.png)
+![Japanese Books Page2](https://i.postimg.cc/508rmm1k/442469017-947831750471844-1274768362058328667-n.png)
+![Japanese Books Page3](https://i.postimg.cc/g0XQxW7p/442476723-761095942860082-5801729801958872484-n.png)
 ![Depressing classic Books Page](https://i.postimg.cc/YS5VgPcW/441991920-428189123513106-4901813307745999487-n.png)
 ![Self Help Books Page](https://i.postimg.cc/52kD90np/447522657-470473658693563-2282123497450368564-n.png)
 
